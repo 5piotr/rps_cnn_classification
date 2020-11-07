@@ -1,5 +1,8 @@
 test/
 train/
 pictures/
+pictures_r/
 test_e/
 train_e/
+test_r/
+train_r/
