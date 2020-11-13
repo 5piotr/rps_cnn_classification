@@ -6,3 +6,5 @@ test_e/
 train_e/
 test_r/
 train_r/
+test_r+e/
+train_r+e/
