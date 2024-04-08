@@ -2,3 +2,4 @@ train*
 test*
 pictures*
 .ipynb_checkpoints/
+temp/
